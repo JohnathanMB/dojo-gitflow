@@ -14,7 +14,7 @@ git push -u origin [name_branch]
 git add [files_directions]
 
 -- Se hace un commit normal: 
-git commit -m "comentario]
+git commit -m "comentario"
 
 -- Se hace un push normal a la rama en la que se desea: 
 git push -u origin [name_branch]
