@@ -6,11 +6,11 @@ Dojo sobre git, ERP Example - Empresariales
 git checkout -b [name_branch]
 Nota: para cambiar entre ramas, sólo se hace - git chekout [name_branch]-
 
-** Push en la rama nueva: 
+** Push en la rama nueva:/n
 git push -u origin [name_branch]
 
 ** subir cambios en una rama
--- Se agregan los archivos que se deseen subir: 
+-- Se agregan los archivos que se deseen subir: /n
 git add [files_directions]
 
 -- Se hace un commit normal: 
