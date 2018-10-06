@@ -1,4 +1,4 @@
-# dojo-gitflow Versión 1.0.1
+# dojo-gitflow V 1.0.1
 Dojo sobre git, ERP Example - Empresariales
 
 ** Crear Rama (branch)
