@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-#Versión 1.0.1
-=======
-# dojo-gitflow
+# dojo-gitflow Versión 1.0.1
 Dojo sobre git, ERP Example - Empresariales
 
 ** Crear Rama (branch)
@@ -25,8 +22,3 @@ git commit -m "comentario"
 -- Se hace un push normal a la rama en la que se desea: 
 <br/>
 git push -u origin [name_branch]
-
-
-
-
->>>>>>> 1c6a9dbbc4e8f687f32308635a682898e4441935
