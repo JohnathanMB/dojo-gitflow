@@ -7,6 +7,7 @@ git checkout -b [name_branch]
 Nota: para cambiar entre ramas, sólo se hace - git chekout [name_branch]-
 
 ** Push en la rama nueva:
+<br/>
 git push -u origin [name_branch]
 
 ** subir cambios en una rama
@@ -15,9 +16,11 @@ git push -u origin [name_branch]
 git add [files_directions]
 
 -- Se hace un commit normal: 
+<br/>
 git commit -m "comentario"
 
 -- Se hace un push normal a la rama en la que se desea: 
+<br/>
 git push -u origin [name_branch]
 
 
